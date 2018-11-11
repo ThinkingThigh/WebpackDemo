@@ -1,0 +1,25 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "webpackdemo",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkingThigh/WebpackDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkingThigh/WebpackDemo/issues"
+  },
+  "homepage": "https://github.com/ThinkingThigh/WebpackDemo#readme"
+}
